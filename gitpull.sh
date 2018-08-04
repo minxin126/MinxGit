@@ -7,5 +7,5 @@ git config --global user.name "minxin126"
 #git add .
 #git commit -a -m ""
 sudo git pull origin master
-
+#come on,i believe you!
 ~                                          
